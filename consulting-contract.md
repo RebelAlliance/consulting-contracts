@@ -24,10 +24,10 @@ Närmare förutsättningar för och innehållet i Uppdraget ges löpande av Best
 2.1 Engagerad konsult för Uppdraget är KONSULT.
 Konsulten får inte bytas utan att Beställaren och Leverantören i förväg skriftligen godkänt detta.
 
-2.2. Parterna får inte anställa person som är anställd eller varit anställd hos den andra parten innan sex månader har förflutit sedan den anställde slutaden sin anställning utan båda parters skriftliga medgivande. Om anställningen upphört på grund av uppsägning från arbetsgivaren gäller inte bestämmelsen.
+2.2. Parterna får inte anställa person som är anställd eller varit anställd hos den andra parten innan sex månader har förflutit sedan den anställde slutade sin anställning utan båda parters skriftliga medgivande. Om anställningen upphört på grund av uppsägning från arbetsgivaren gäller inte bestämmelsen.
 
 2.3 Parterna äger inte rätt att använda varandras firmakännetecken eller varumärken i reklam, marknadsföringssammanhang, pressrelease eller liknande utan att först ha inhämtat skriftligt medgivande från Beställaren.
-Parterna har rätt att använda varandras firmakännetecken eller varumkärken under rubrikerna "Kunder" respektive "Leverantörer" oavsett språk.
+Parterna har rätt att använda varandras firmakännetecken eller varumärken under rubrikerna ”Kunder” respektive ”Leverantörer” och dessa rubrikers motsvarigheter på andra språk.
 
 2.4 Force majeure
 
@@ -38,13 +38,13 @@ Part är fri från ansvar när förlust, skada eller försening orsakats av lagb
 Parterna friskriver sig ömsesidigt gentemot varandra från ansvar för fel, förluster på grund av indirekta skador eller följdskador. Parts skadeståndsansvar för direkt skada är för varje uppdrag begränsat till 100 000 SEK. Vad som nu sagts skall inte gälla om skadan orsakats uppsåtligen eller av grov oaktsamhet av den andre parten.
 
 
-9. Överlåtelse av Avtalet
+2.6 Överlåtelse av Avtalet
 
-Parterna får inte helt eller delvis överlåta eller pantsätta sina rättigheter och/eller skyldigheter enligt detta Avtal utan andra andra parts skriftliga godkännande.
+Parterna får inte helt eller delvis överlåta eller pantsätta sina rättigheter och/eller skyldigheter enligt detta Avtal utan andra partens skriftliga godkännande.
 
 3. Beställarens åtaganden
 
-Beställaren skall kostnadsfritt tillhandahålla Leverantören den information och allt övrigt underlag som rimligen erfordras för Uppdragets utförande. Beställaren ansvarar för att tillhandahållen information är korrekt och fullständig för ändamålet.
+Beställaren skall kostnadsfritt tillhandahålla Leverantören den information och allt övrigt underlag som rimligen erfordras för Uppdragets utförande. Beställaren ansvarar för att tillhandahålla information är korrekt och fullständig för ändamålet.
 
 Beställaren skall bereda Leverantören tillgång till lokaler och utrustning i sådan utsträckning som erfordras för Uppdragets utförande.
 
@@ -59,7 +59,7 @@ Beställaren skall bereda Leverantören tillgång till lokaler och utrustning i 
 4.4 Rätt till arbetsresultat
 
 Samtliga rättigheter till arbetsresultat, inklusive patenterbara uppfinningar som Konsulten gjort eller bidragit till, vilka härrör från Uppdraget, skall ensamt tillfalla Beställaren om inte annat skriftligen har avtalats. Det tillfaller även Beställaren fritt att inom sin verksamhet vidareupplåta eller överlåta arbetsresultat som härrör från Uppdraget. 
-Leverantören och Konsulten är skyldig att vid Beställarens begäran, genom undertecknande av erforderliga handlingar och genom andra nödvändinga åtgärder, medverka till att resultatet av arbetet med Uppdraget som innebär, eller kan innebära, att det uppkommer uppfinningar eller andra rättigheter som kan medföra patent eller annat immaterialrättsligt skydd, kan registreras i Beställarens namn.
+Leverantören och Konsulten är skyldig att vid Beställarens begäran, genom undertecknande av erforderliga handlingar och genom andra nödvändiga åtgärder, medverka till att resultatet av arbetet med Uppdraget som innebär, eller kan innebära, att det uppkommer uppfinningar eller andra rättigheter som kan medföra patent eller annat immaterialrättsligt skydd, kan registreras i Beställarens namn.
 
 4.5 Ansvar för fel
 
@@ -101,7 +101,7 @@ Parterna kan säga upp avtalet:
 
 8. Säkerhet och sekretess
 
-Varje konsult som är delaktig i uppdraget förbinder sig att underteckna individuellt ställda avtal som reglererar sekretess och säkerhetsbestämmelser.
+Varje konsult som är delaktig i uppdraget förbinder sig att underteckna individuellt ställda avtal som reglerar sekretess och säkerhetsbestämmelser.
 
 9. Ändringar
 
