@@ -1,5 +1,6 @@
 TODO:
 [ ] Leverantören är beträffande material som Leverantören levererar i samband med Uppdraget skyldig att hålla Beställaren skadelös från alla krav och eventuella kostnader i anledning av anspråk som innehavare av immateriella rättigheter må rikta mot Beställaren.
+[ ] Nytt kontrakt ersätter alla tidigare kontrakt mellan parterna.
 
 
 Avtal avseende konsulttjänster
