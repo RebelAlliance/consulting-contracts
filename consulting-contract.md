@@ -60,7 +60,6 @@ Beställaren skall bereda Leverantören tillgång till lokaler och utrustning i 
 4.4 Rätt till arbetsresultat
 
 Samtliga rättigheter till arbetsresultat, inklusive patenterbara uppfinningar som Konsulten gjort eller bidragit till, vilka härrör från Uppdraget, skall ensamt tillfalla Beställaren om inte annat skriftligen har avtalats. Det tillfaller även Beställaren fritt att inom sin verksamhet vidareupplåta eller överlåta arbetsresultat som härrör från Uppdraget. 
-Leverantören och Konsulten är skyldig att vid Beställarens begäran, genom undertecknande av erforderliga handlingar och genom andra nödvändiga åtgärder, medverka till att resultatet av arbetet med Uppdraget som innebär, eller kan innebära, att det uppkommer uppfinningar eller andra rättigheter som kan medföra patent eller annat immaterialrättsligt skydd, kan registreras i Beställarens namn.
 
 4.5 Ansvar för fel
 
